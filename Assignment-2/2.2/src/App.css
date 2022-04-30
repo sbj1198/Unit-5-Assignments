@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  width: 90vw;
+  margin: 1.2em auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: .5em 3em;
+  background-color: chartreuse;
+  border-radius: .2em;
+}
+
+nav > img{
+  width: 65px;
+}
+
+.menu{
+  display: flex;
+  list-style: none;
+  margin: auto;
+  padding: 0;
+}
+
+.options{
+  padding: 1.5em;
+}
+
+button{
+  border-radius: .2em;
+  background-color: blueviolet;
+  color: beige;
+  border:none;
+  border-radius: 8px;
+  padding: 5px 10px;
+}
