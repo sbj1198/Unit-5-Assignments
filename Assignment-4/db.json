@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "a",
+      "age": "12",
+      "address": "adafad",
+      "department": "A",
+      "married": "No",
+      "salary": "2525252",
+      "id": 1
+    },
+    {
+      "name": "d",
+      "age": "43",
+      "address": "ystwtw",
+      "department": "B",
+      "salary": "35533",
+      "married": "Yes",
+      "id": 2
+    },
+    {
+      "name": "kdjs",
+      "age": "23",
+      "address": "lsjlsj",
+      "department": "C",
+      "salary": "37570",
+      "married": "No",
+      "id": 3
+    }
+  ]
+}
